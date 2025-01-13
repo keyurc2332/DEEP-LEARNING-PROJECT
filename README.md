@@ -41,3 +41,6 @@ Saving the Model:
 The trained model was saved as an H5 file, enabling future reuse without retraining.
 
 This project demonstrated the end-to-end implementation of a deep learning model, from data preprocessing and model building to evaluation and visualization. It effectively showcased the capability of CNNs in image classification tasks.
+
+![image](https://github.com/user-attachments/assets/f3443aea-5af7-45c7-9f1a-9d5998d53740)
+![image](https://github.com/user-attachments/assets/f94c8209-a16a-43d2-b247-7e89687205e9)
